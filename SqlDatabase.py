@@ -1,7 +1,7 @@
 import psycopg2
 import datetime
 
-url = "postgres://gdvtfiia:OVdlGFpREeitXSPy51n2cJtfmXb1p-PH@rosie.db.elephantsql.com:5432/gdvtfiia"
+url = "enter url here!"
 
 CREATE_MOVIES_TABLE = """CREATE TABLE IF NOT EXISTS movies(
     id SERIAL PRIMARY KEY,
